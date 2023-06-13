@@ -15,7 +15,6 @@
     transition-duration: .5s;
 
 }
-
 .nav-item a:hover::after {
     content: "";
     height: 2px;
